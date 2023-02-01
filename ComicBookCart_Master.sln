@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComicBookCart_Master", "ComicBookCart_Master\ComicBookCart_Master.csproj", "{5F4217D7-C02F-4BC6-B2A1-7480EADB0640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingAPI _TO MVC", "ConsumingAPI _TO MVC\ConsumingAPI _TO MVC.csproj", "{C60C3E3D-E7DA-4E29-8F64-EFC640721C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4217D7-C02F-4BC6-B2A1-7480EADB0640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4217D7-C02F-4BC6-B2A1-7480EADB0640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4217D7-C02F-4BC6-B2A1-7480EADB0640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4217D7-C02F-4BC6-B2A1-7480EADB0640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60C3E3D-E7DA-4E29-8F64-EFC640721C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C3E3D-E7DA-4E29-8F64-EFC640721C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C3E3D-E7DA-4E29-8F64-EFC640721C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C3E3D-E7DA-4E29-8F64-EFC640721C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332E0051-9245-46D5-981E-98B61F40C3C6}
+	EndGlobalSection
+EndGlobal
